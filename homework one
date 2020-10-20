@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" >
+	<head>
+		<meta charset="utf-8">
+		<title>First Homework</title>
+	</head>
+	<body style="font family: sans-serif;">
+		<h1 style="color: blue;"> Sasha Spaic</h1>
+	</body>
+	<body style="font family: sans-serif;">
+		<h2 style="color: pink;"> About me</h1>
+		<ul> 
+			<li>I study <strong>International Relations</strong> </li>
+			<li>I enjoy arts and crafts </li>
+			<li>I have a dog called <strong>Milo</strong> (see photo below)</li>
+		</ul>
+	</body>
+</html>
